@@ -38,9 +38,9 @@ Role: Team Member.
 
 ## Tech Stack
 
-**Html**: for structuring the website.
-**Css**: For Styling and animations.
-**Font-awesome**: Creating font style.
-**Google font**: Creating font style.
-**fas fa-heart**:Creating Heart emogi.
+## Html: for structuring the website.
+## Css: For Styling and animations.
+## Font-awesome: Creating font style.
+## Google font: Creating font style.
+## fas fa-heart:Creating Heart emogi.
    
