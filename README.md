@@ -1,7 +1,8 @@
 # event-invitation
 
 A modern and user-friendly website designed to help couples plan their weddings with ease. This platform offers tools to manage everything from guest lists and budgets to venues and RSVPs—all in one place.
-**Team-members and their contributes**:
+## Team-members and their contributes:
+
 1.Lovely Singh:
 *= Role: Team leader.
 *Contribution:Overviwe the project,designed and structure.
